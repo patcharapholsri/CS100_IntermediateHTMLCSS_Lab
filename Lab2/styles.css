@@ -144,6 +144,9 @@ footer {
     background-color: #ffe066;
     padding: 10px;
     text-align: center;
+    clear: both;
+    position: sticky;
+    bottom: 0px;
 }
 
 footer p {

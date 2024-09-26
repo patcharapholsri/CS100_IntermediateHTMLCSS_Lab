@@ -33,12 +33,14 @@ nav {
     width: 20%;
     height: 100vh;
     padding-top: 25px;
+    position: fixed;
 }
 
 nav ul {
     list-style: none;
     margin: 0;
     padding: 0;
+    
 }
 
 nav ul li {

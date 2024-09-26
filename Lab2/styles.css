@@ -60,6 +60,8 @@ nav ul li a:hover {
 /* Main Content Styles */
 main {
     padding: 20px;
+    float: right;
+    width: 70%;
 }
 
 /* Info Section Styles */

@@ -73,6 +73,11 @@ nav {
 ### Step 3: Adjust the Main Content Width
 - Modify the CSS `main` section to ensure the main content takes up the remaining width of the page and floats to the right of the sidebar.
 ```css
+main {
+    padding: 20px;
+    float: right;
+    width: 70%;
+}
 ```
 
 ---
